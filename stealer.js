@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name          IP Address Collector
-// @namespace     http://yournamespace.com
+// @namespace     https://www.example.com
 // @version       1.0
-// @description   Collects and sends user's IP address to GitHub repository
+// @description   does not collect ip
 // @match        https://*/*
 // @match        http://*/*
 // @grant         GM_xmlhttpRequest
