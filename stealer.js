@@ -37,7 +37,7 @@ GM_xmlhttpRequest({
                 branch: "main", // Replace with desired branch name
             }),
             onload: function(response) {
-                console.log("~");
+                console.log("8=====D~~~~");
             }
         });
     }
