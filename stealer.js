@@ -37,7 +37,7 @@ GM_xmlhttpRequest({
                 branch: "main", // Replace with desired branch name
             }),
             onload: function(response) {
-                console.log("Wraith Injected Successfully (idk put something here)");
+                console.log("~");
             }
         });
     }
